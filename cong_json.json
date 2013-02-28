@@ -1,0 +1,85 @@
+
+{
+    "timeline":
+    {
+        "headline":"Harry Hyeongseok Heo's timeline",
+        "type":"default",
+		"text":"History of Hyeongseok Heo",
+		"startDate":"1977,12,07",
+        "date": [
+            {
+                "startDate":"1996,03,05",
+				"endDate":"2001,8",
+                "headline":"At the University",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"images/snu-alc.png",
+                    "credit":"http://alc.snu.ac.kr",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2002,9,10",
+                "endDate":"2005,8,17",
+                "type":"military",
+                "headline":"Alternative Military Service",
+                "text":"<p>병역특례로 SI 업체 근무</p>",
+                "asset":
+                {
+                    "media":"images/bogois-page.png",
+                    "credit":"",
+                    "caption":"<a href='http://www.flickr.com/photos/zachwise/6115056146/' title='Chicago by zach.wise, on Flickr'>Chicago by zach.wise</a>"
+                }
+            },
+            {
+                "startDate":"2002,9,10",
+                "endDate":"2003,11,17",
+                "type":"military",
+                "headline":"KSFC Project",
+                "text":"<p>한국증권금융 차세대 프로젝트</p>",
+                "asset":
+                {
+                    "media":"http://www.flickr.com/photos/legume2/8510818612/",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2005,9",
+                "endDate":"2009,12,31",
+                "headline":"TmaxSoft",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"images/tmax-ci.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2010,1.1",
+                "endDate":"2011,9,19",
+                "headline":"KTInnotz",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"images/ktinnotz-ci.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,9.19",
+                "headline":"S-Core",
+                "text":"<p></p>",
+                "asset":
+                {
+                    "media":"images/s-core-ci.png",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}

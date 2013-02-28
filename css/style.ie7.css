@@ -1,0 +1,76 @@
+/* Created by Artisteer v4.0.0.58475 */
+
+.clearfix {
+   zoom: expression(this.runtimeStyle.zoom="1", this.appendChild(document.createElement("br")).className="cleared");
+}
+
+.swd-textblock > div {
+   display: block;
+   line-height: normal;
+   zoom: 1;
+}
+
+.swd-header
+{
+   z-index: 1;
+}
+
+.swd-content-layout, .swd-content-layout-row, .swd-layout-cell 
+{
+   display: block;
+   zoom: 1;
+}
+.swd-layout-cell
+{
+   position:relative;
+   float: left;
+   clear: right;
+}
+
+input[type="text"]
+{
+   margin:0 0 0 -3px;
+   zoom:expression(runtimeStyle.zoom = 1, parentNode.insertBefore(document.createElement('div'), this).appendChild(this));
+}
+
+* html input[type="text"]
+{
+   margin :0;
+}
+
+form.swd-search>input[type="text"]
+{
+   margin:0 0 0 -3px;
+   zoom:expression(runtimeStyle.zoom = 1, parentNode.insertBefore(document.createElement('div'), this).appendChild(this));
+}
+
+form.swd-search div>input[type="text"]
+{
+   width: 100%;
+}
+
+* html form.swd-search>input[type="text"] 
+{
+   margin :0;
+}
+
+.swd-postheadericons span{
+   zoom: 1;
+}
+.swd-postcontent {
+   height: 1%;
+}
+
+.close-alt, .arrow-right-alt, .arrow-left-alt {
+   display: block !important;
+}
+.cw, .ccw {
+   display: none !important;
+}
+
+.swd-content 
+{
+   width: auto;
+   float:none;
+}
+
